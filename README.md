@@ -1,52 +1,43 @@
-# Amirreza Pirzadeh
+<div align="center">
 
-Full-stack developer and network engineer. I build production web platforms and configure the networks they run on.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Amirreza Pirzadeh. Full-stack developer and network engineer.">
+</picture>
 
-## What I do
+<br><br>
 
-**Web**: Next.js and Node.js applications backed by PostgreSQL, MariaDB and Redis, containerized with Docker and served through Nginx.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/t-work-dark.svg">
+  <img src="assets/t-work-light.svg" alt="Selected work">
+</picture>
 
-**Network**: MikroTik / RouterOS configuration and automation for business networks.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
+  <img src="assets/work-light.svg" alt="NomreFood, Hotel websites, MikroTik backup">
+</picture>
 
-## Selected work
-
-<details open>
-<summary><b>NomreFood</b>: restaurant and QR menu platform</summary>
 <br>
 
-Multi-restaurant platform with a right-to-left Persian interface, running in production.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/t-stack-dark.svg">
+  <img src="assets/t-stack-light.svg" alt="Tools of the trade">
+</picture>
 
-`Next.js` `Node.js` `PostgreSQL` `Redis` `Nginx` `Docker`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Next.js, Node.js, PostgreSQL, MariaDB, Redis, Docker, Nginx, RouterOS">
+</picture>
 
-</details>
-
-<details>
-<summary><b>Hotel websites</b>: freelance work for German and European clients</summary>
 <br>
 
-Multilingual marketing and booking sites for hotels.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/t-contact-dark.svg">
+  <img src="assets/t-contact-light.svg" alt="Let's build something">
+</picture>
 
-`Next.js` `MariaDB` `Nginx`
+<a href="mailto:you@example.com"><img src="assets/contact.svg" alt="Get in touch" width="220"></a>
 
-</details>
+<br><br>
 
-<details>
-<summary><b>MikroTik backup automation</b></summary>
-<br>
-
-Scheduled backups of the User Manager database, running as a cron job or serverless function.
-
-`RouterOS` `Node.js`
-
-</details>
-
-## Stack
-
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,mariadb,redis,docker,nginx&perline=7" alt="Next.js, Node.js, PostgreSQL, MariaDB, Redis, Docker, Nginx" />
-
-![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-3B5BDB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirrezapirzadeh@gmail.com)
-a
+</div>
