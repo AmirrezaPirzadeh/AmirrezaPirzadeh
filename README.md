@@ -8,18 +8,6 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/t-work-dark.svg">
-  <img src="assets/t-work-light.svg" alt="Selected work">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
-  <img src="assets/work-light.svg" alt="NomreFood, Hotel websites, MikroTik backup">
-</picture>
-
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/t-stack-dark.svg">
   <img src="assets/t-stack-light.svg" alt="Tools of the trade">
 </picture>
