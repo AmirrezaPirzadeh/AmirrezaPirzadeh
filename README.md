@@ -48,4 +48,5 @@ Scheduled backups of the User Manager database, running as a cron job or serverl
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-3B5BDB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-3B5BDB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirrezapirzadeh@gmail.com)
+a
