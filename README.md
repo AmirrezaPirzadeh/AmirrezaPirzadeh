@@ -34,7 +34,6 @@
 <p>
   <img src="https://img.shields.io/badge/MikroTik-RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik RouterOS" />
   <img src="https://img.shields.io/badge/Proxmox-homelab-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/IKEv2-VPN-3B5BDB?style=for-the-badge" alt="IKEv2 VPN" />
 </p>
 
 ## 🚀 Projects
@@ -57,7 +56,6 @@
 | Project | What it is | Built with |
 | --- | --- | --- |
 | **MikroTik backup** | Scheduled User Manager database backups | RouterOS, Node.js |
-| **IKEv2 client on CHR** | Certificate-verified VPN client on a Cloud Hosted Router | RouterOS |
 | **Network Diagnostics Toolbox** | Diagnostics app for network engineers | SwiftUI |
 
 </details>
